@@ -24,7 +24,7 @@ export default function Home() {
       <FarmhouseOverview />
       <Amenities />
       <VideoShowcase />
-      <Gallery />
+      {/* <Gallery /> */}
       <Faq />
       <ScheduleVisit />
       <MapSection />
